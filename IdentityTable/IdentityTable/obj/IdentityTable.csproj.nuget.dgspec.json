@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Triton\\Documents\\New folder\\IdentityTable\\IdentityTable\\IdentityTable\\IdentityTable.csproj": {}
+    "C:\\TritonAdmin\\TritonTechAdministrator\\IdentityTable\\IdentityTable\\IdentityTable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Triton\\Documents\\New folder\\IdentityTable\\IdentityTable\\IdentityTable\\IdentityTable.csproj": {
+    "C:\\TritonAdmin\\TritonTechAdministrator\\IdentityTable\\IdentityTable\\IdentityTable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Triton\\Documents\\New folder\\IdentityTable\\IdentityTable\\IdentityTable\\IdentityTable.csproj",
+        "projectUniqueName": "C:\\TritonAdmin\\TritonTechAdministrator\\IdentityTable\\IdentityTable\\IdentityTable.csproj",
         "projectName": "IdentityTable",
-        "projectPath": "C:\\Users\\Triton\\Documents\\New folder\\IdentityTable\\IdentityTable\\IdentityTable\\IdentityTable.csproj",
-        "packagesPath": "C:\\Users\\Triton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Triton\\Documents\\New folder\\IdentityTable\\IdentityTable\\IdentityTable\\obj\\",
+        "projectPath": "C:\\TritonAdmin\\TritonTechAdministrator\\IdentityTable\\IdentityTable\\IdentityTable.csproj",
+        "packagesPath": "C:\\Users\\LTP-5\\.nuget\\packages\\",
+        "outputPath": "C:\\TritonAdmin\\TritonTechAdministrator\\IdentityTable\\IdentityTable\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Triton\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\LTP-5\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,6 +56,10 @@
               "target": "Package",
               "version": "[5.0.17, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.17, )"
@@ -85,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
         }
       }
     }
