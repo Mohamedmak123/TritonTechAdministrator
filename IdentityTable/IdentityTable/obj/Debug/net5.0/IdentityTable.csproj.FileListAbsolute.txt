@@ -130,3 +130,13 @@ C:\Users\Triton\Documents\New folder\IdentityTable\IdentityTable\IdentityTable\o
 C:\Users\Triton\Documents\New folder\IdentityTable\IdentityTable\IdentityTable\obj\Debug\net5.0\ref\IdentityTable.dll
 C:\Users\Triton\Documents\New folder\IdentityTable\IdentityTable\IdentityTable\obj\Debug\net5.0\IdentityTable.pdb
 C:\Users\Triton\Documents\New folder\IdentityTable\IdentityTable\IdentityTable\obj\Debug\net5.0\IdentityTable.genruntimeconfig.cache
+C:\Triton\TritonTechAdministrator\IdentityTable\IdentityTable\obj\Debug\net5.0\IdentityTable.csproj.AssemblyReference.cache
+C:\Triton\TritonTechAdministrator\IdentityTable\IdentityTable\obj\Debug\net5.0\IdentityTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Triton\TritonTechAdministrator\IdentityTable\IdentityTable\obj\Debug\net5.0\IdentityTable.AssemblyInfoInputs.cache
+C:\Triton\TritonTechAdministrator\IdentityTable\IdentityTable\obj\Debug\net5.0\IdentityTable.AssemblyInfo.cs
+C:\Triton\TritonTechAdministrator\IdentityTable\IdentityTable\obj\Debug\net5.0\IdentityTable.csproj.CoreCompileInputs.cache
+C:\Triton\TritonTechAdministrator\IdentityTable\IdentityTable\obj\Debug\net5.0\IdentityTable.MvcApplicationPartsAssemblyInfo.cs
+C:\Triton\TritonTechAdministrator\IdentityTable\IdentityTable\obj\Debug\net5.0\IdentityTable.MvcApplicationPartsAssemblyInfo.cache
+C:\Triton\TritonTechAdministrator\IdentityTable\IdentityTable\obj\Debug\net5.0\IdentityTable.dll
+C:\Triton\TritonTechAdministrator\IdentityTable\IdentityTable\obj\Debug\net5.0\ref\IdentityTable.dll
+C:\Triton\TritonTechAdministrator\IdentityTable\IdentityTable\obj\Debug\net5.0\IdentityTable.pdb
